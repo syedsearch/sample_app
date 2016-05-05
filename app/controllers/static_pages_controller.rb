@@ -1,5 +1,6 @@
 class StaticPagesController < ApplicationController
   def home
+    "Hello World"
   end
 
   def help
